@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="广东珠江576p" tvg-logo="https://live.fanmingming.com/tv/广东珠江576p.png" group-title="港台频道",广东珠江576p
-http://27.41.245.32:801/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="测试" tvg-logo="https://live.fanmingming.com/tv/广东珠江576p.png" group-title="港台频道",广东珠江576p
+https://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?uid=1471626048689&uuid=1471626048689&wsSecret=5e04b4c7ff50997620bf9d768227e834&wsTime=6ac1d9d1&ctype=huya_adr&txyp=o%3An4%3B&fs=bgct&ratio=0&u=1472090911139&ver=1&t=2&seqid=2806088798
 #EXTINF:-1 tvg-name="广东珠江720p" tvg-logo="https://live.fanmingming.com/tv/广东珠江720p.png" group-title="港台频道",广东珠江720p
 https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
 #EXTINF:-1 tvg-name="广东珠江1080p" tvg-logo="https://live.fanmingming.com/tv/广东珠江1080p.png" group-title="港台频道",广东珠江1080p
